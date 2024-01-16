@@ -1,7 +1,7 @@
 <h1 align="center"> CardPay </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Bootcamp, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
